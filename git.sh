@@ -12,4 +12,4 @@ git commit -m "Auto-commit: $TIMESTAMP"
 # Push to the current branch
 git push
 
-echo -e  "${RED}Changes committed and pushed with timestamp: $TIMESTAMP"
+echo  "${RED}Changes committed and pushed with timestamp: $TIMESTAMP"
